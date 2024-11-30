@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naaaklerh
+- 👋 Hi, I’m @Salomey Quarshie
 - 👀 I’m interested in data analysis, problem-solving, and leveraging data for strategic decision-making.
 - 🌱 I’m currently learning advanced data visualization and statistical analysis techniques.
 - 💞️ I’m looking to collaborate on projects that utilize data to drive efficiency and innovation.
